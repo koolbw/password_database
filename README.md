@@ -1,1 +1,2 @@
-# password_database
+# Password Manager
+By: Brandon Wise <br>  
