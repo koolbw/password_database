@@ -21,6 +21,9 @@
 import rsa
 
 publicKey, privateKey = rsa.newkeys(512)
+print(publicKey)
+print()
+print(privateKey)
 
 message = "thisIsMyPassword123!"
 
